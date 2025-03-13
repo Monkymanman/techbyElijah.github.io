@@ -1,0 +1,37 @@
+header {
+    text-align: center;
+    background-color: rgba(0,0,0,0.2);
+    background-size: cover;
+    padding: 20px 0px 0px 0px;
+}
+body { 
+    background-color: lightcoral;
+}
+article {
+    margin: 0 auto;
+    max-width: 800px;
+    text-align: left;
+}
+h2 {
+    text-align:center;
+    font-family: "Big Shoulders Stencil", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+h6 {
+    text-align: center;
+}
+li {
+    padding:10px
+}
+li{
+    display:inline;
+}
+a{
+    color:white;
+}
+h1{
+        font-family: "Sigmar", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
